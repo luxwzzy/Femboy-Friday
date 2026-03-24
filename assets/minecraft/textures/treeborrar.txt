@@ -1,0 +1,328 @@
+gui
+├── advancements
+│   └── window.png
+├── container
+│   ├── anvil.png
+│   ├── beacon.png
+│   ├── blast_furnace.png
+│   ├── brewing_guide_left.png
+│   ├── brewing_guide_right.png
+│   ├── brewing_stand.png
+│   ├── cartography_table.png
+│   ├── crafter.png
+│   ├── crafting_table.png
+│   ├── creative_inventory
+│   │   ├── tab_inventory.png
+│   │   ├── tab_item_search.png
+│   │   └── tab_items.png
+│   ├── dispenser.png
+│   ├── enchanting_table.png
+│   ├── furnace.png
+│   ├── gamemode_switcher.png
+│   ├── generic_54.png
+│   ├── grindstone.png
+│   ├── hopper.png
+│   ├── horse.png
+│   ├── inventory.png
+│   ├── loom.png
+│   ├── shulker_box.png
+│   ├── smithing.png
+│   ├── smoker.png
+│   ├── stonecutter.png
+│   └── villager.png
+├── demo_background.png
+├── options_background.png
+├── recipe_book.png
+├── sprites
+│   ├── advancements
+│   │   ├── box_obtained.png
+│   │   ├── box_unobtained.png
+│   │   ├── challenge_frame_obtained.png
+│   │   ├── challenge_frame_unobtained.png
+│   │   ├── goal_frame_obtained.png
+│   │   ├── goal_frame_unobtained.png
+│   │   ├── tab_above_left.png
+│   │   ├── tab_above_left_selected.png
+│   │   ├── tab_above_middle.png
+│   │   ├── tab_above_middle_selected.png
+│   │   ├── tab_above_right.png
+│   │   ├── tab_above_right_selected.png
+│   │   ├── tab_below_left.png
+│   │   ├── tab_below_left_selected.png
+│   │   ├── tab_below_middle.png
+│   │   ├── tab_below_middle_selected.png
+│   │   ├── tab_below_right.png
+│   │   ├── tab_below_right_selected.png
+│   │   ├── tab_left_bottom.png
+│   │   ├── tab_left_bottom_selected.png
+│   │   ├── tab_left_middle.png
+│   │   ├── tab_left_middle_selected.png
+│   │   ├── tab_left_top.png
+│   │   ├── tab_left_top_selected.png
+│   │   ├── tab_right_bottom.png
+│   │   ├── tab_right_bottom_selected.png
+│   │   ├── tab_right_middle.png
+│   │   ├── tab_right_middle_selected.png
+│   │   ├── tab_right_top.png
+│   │   ├── tab_right_top_selected.png
+│   │   ├── task_frame_obtained.png
+│   │   ├── task_frame_unobtained.png
+│   │   └── title_box.png
+│   ├── container
+│   │   ├── anvil
+│   │   │   ├── error.png
+│   │   │   ├── text_field_disabled.png
+│   │   │   └── text_field.png
+│   │   ├── beacon
+│   │   │   ├── button_disabled.png
+│   │   │   ├── button_highlighted.png
+│   │   │   ├── button.png
+│   │   │   └── button_selected.png
+│   │   ├── blast_furnace
+│   │   │   ├── burn_progress.png
+│   │   │   └── lit_progress.png
+│   │   ├── brewing_stand
+│   │   │   ├── brew_progress.png
+│   │   │   └── bubbles.png
+│   │   ├── bundle
+│   │   │   ├── background.png
+│   │   │   ├── background.png.mcmeta
+│   │   │   ├── blocked_slot.png
+│   │   │   └── slot.png
+│   │   ├── cartography_table
+│   │   │   └── error.png
+│   │   ├── crafter
+│   │   │   ├── disabled_slot.png
+│   │   │   └── unpowered_redstone.png
+│   │   ├── creative_inventory
+│   │   │   ├── scroller_disabled.png
+│   │   │   ├── scroller.png
+│   │   │   ├── tab_bottom_selected_1.png
+│   │   │   ├── tab_bottom_selected_2.png
+│   │   │   ├── tab_bottom_selected_3.png
+│   │   │   ├── tab_bottom_selected_4.png
+│   │   │   ├── tab_bottom_selected_5.png
+│   │   │   ├── tab_bottom_selected_6.png
+│   │   │   ├── tab_bottom_selected_7.png
+│   │   │   ├── tab_bottom_unselected_1.png
+│   │   │   ├── tab_bottom_unselected_2.png
+│   │   │   ├── tab_bottom_unselected_3.png
+│   │   │   ├── tab_bottom_unselected_4.png
+│   │   │   ├── tab_bottom_unselected_5.png
+│   │   │   ├── tab_bottom_unselected_6.png
+│   │   │   ├── tab_bottom_unselected_7.png
+│   │   │   ├── tab_top_selected_1.png
+│   │   │   ├── tab_top_selected_2.png
+│   │   │   ├── tab_top_selected_3.png
+│   │   │   ├── tab_top_selected_4.png
+│   │   │   ├── tab_top_selected_5.png
+│   │   │   ├── tab_top_selected_6.png
+│   │   │   ├── tab_top_selected_7.png
+│   │   │   ├── tab_top_unselected_1.png
+│   │   │   ├── tab_top_unselected_2.png
+│   │   │   ├── tab_top_unselected_3.png
+│   │   │   ├── tab_top_unselected_4.png
+│   │   │   ├── tab_top_unselected_5.png
+│   │   │   ├── tab_top_unselected_6.png
+│   │   │   └── tab_top_unselected_7.png
+│   │   ├── enchanting_table
+│   │   │   ├── enchantment_slot_disabled.png
+│   │   │   └── enchantment_slot.png
+│   │   ├── furnace
+│   │   │   ├── burn_progress.png
+│   │   │   └── lit_progress.png
+│   │   ├── grindstone
+│   │   │   └── error.png
+│   │   ├── horse
+│   │   │   ├── armor_slot.png
+│   │   │   ├── chest_slots.png
+│   │   │   ├── llama_armor_slot.png
+│   │   │   └── saddle_slot.png
+│   │   ├── inventory
+│   │   │   ├── effect_background_large.png
+│   │   │   └── effect_background_small.png
+│   │   ├── loom
+│   │   │   ├── banner_slot.png
+│   │   │   ├── dye_slot.png
+│   │   │   ├── pattern_highlighted.png
+│   │   │   ├── pattern.png
+│   │   │   ├── pattern_selected.png
+│   │   │   ├── pattern_slot.png
+│   │   │   ├── scroller_disabled.png
+│   │   │   └── scroller.png
+│   │   ├── slot.png
+│   │   ├── smithing
+│   │   │   └── error.png
+│   │   ├── smoker
+│   │   │   ├── burn_progress.png
+│   │   │   └── lit_progress.png
+│   │   ├── stonecutter
+│   │   │   ├── recipe.png
+│   │   │   ├── recipe_selected.png
+│   │   │   ├── scroller_disabled.png
+│   │   │   └── scroller.png
+│   │   └── villager
+│   │       ├── out_of_stock.png
+│   │       ├── scroller_disabled.png
+│   │       ├── scroller.png
+│   │       ├── trade_arrow_out_of_stock.png
+│   │       └── trade_arrow.png
+│   ├── gamemode_switcher
+│   │   ├── selection.png
+│   │   └── slot.png
+│   ├── hud
+│   │   ├── effect_background_ambient.png
+│   │   ├── effect_background.png
+│   │   ├── experience_bar_progress.png
+│   │   ├── food_empty_hunger.png
+│   │   ├── food_empty.png
+│   │   ├── food_full_hunger.png
+│   │   ├── food_full.png
+│   │   ├── food_half_hunger.png
+│   │   ├── food_half.png
+│   │   ├── heart
+│   │   │   ├── full.png
+│   │   │   ├── half.png
+│   │   │   ├── hardcore_full.png
+│   │   │   └── hardcore_half.png
+│   │   ├── hotbar_offhand_left.png
+│   │   ├── hotbar_offhand_right.png
+│   │   ├── hotbar.png
+│   │   └── hotbar_selection.png
+│   ├── icon
+│   │   ├── ping_1.png
+│   │   ├── ping_2.png
+│   │   ├── ping_3.png
+│   │   ├── ping_4.png
+│   │   └── ping_5.png
+│   ├── popup
+│   │   ├── background.png
+│   │   └── background.png.mcmeta
+│   ├── recipe_book
+│   │   ├── button_highlighted.png
+│   │   ├── button.png
+│   │   ├── crafting_overlay_disabled_highlighted.png
+│   │   ├── crafting_overlay_disabled.png
+│   │   ├── crafting_overlay_highlighted.png
+│   │   ├── crafting_overlay.png
+│   │   ├── filter_disabled_highlighted.png
+│   │   ├── filter_disabled.png
+│   │   ├── filter_enabled_highlighted.png
+│   │   ├── filter_enabled.png
+│   │   ├── furnace_filter_disabled_highlighted.png
+│   │   ├── furnace_filter_disabled.png
+│   │   ├── furnace_filter_enabled_highlighted.png
+│   │   ├── furnace_filter_enabled.png
+│   │   ├── furnace_overlay_disabled_highlighted.png
+│   │   ├── furnace_overlay_disabled.png
+│   │   ├── furnace_overlay_highlighted.png
+│   │   ├── furnace_overlay.png
+│   │   ├── overlay_recipe.png
+│   │   ├── overlay_recipe.png.mcmeta
+│   │   ├── page_backward_highlighted.png
+│   │   ├── page_backward.png
+│   │   ├── page_forward_highlighted.png
+│   │   ├── page_forward.png
+│   │   ├── slot_craftable.png
+│   │   ├── slot_many_craftable.png
+│   │   ├── slot_many_uncraftable.png
+│   │   ├── slot_uncraftable.png
+│   │   ├── tab.png
+│   │   └── tab_selected.png
+│   ├── server_list
+│   │   ├── join_highlighted.png
+│   │   ├── join.png
+│   │   ├── move_down_highlighted.png
+│   │   ├── move_down.png
+│   │   ├── move_up_highlighted.png
+│   │   ├── move_up.png
+│   │   ├── ping_1.png
+│   │   ├── ping_2.png
+│   │   ├── ping_3.png
+│   │   ├── ping_4.png
+│   │   └── ping_5.png
+│   ├── social_interactions
+│   │   ├── background.png
+│   │   ├── background.png.mcmeta
+│   │   ├── mute_button_highlighted.png
+│   │   ├── mute_button.png
+│   │   ├── report_button_disabled.png
+│   │   ├── report_button_highlighted.png
+│   │   ├── report_button.png
+│   │   ├── unmute_button_highlighted.png
+│   │   └── unmute_button.png
+│   ├── spectator
+│   │   ├── scroll_left.png
+│   │   └── scroll_right.png
+│   ├── statistics
+│   │   ├── header.png
+│   │   ├── sort_down.png
+│   │   └── sort_up.png
+│   ├── toast
+│   │   ├── advancement.png
+│   │   ├── recipe.png
+│   │   ├── system.png
+│   │   └── tutorial.png
+│   ├── transferable_list
+│   │   ├── move_down_highlighted.png
+│   │   ├── move_down.png
+│   │   ├── move_up_highlighted.png
+│   │   ├── move_up.png
+│   │   ├── select_highlighted.png
+│   │   ├── select.png
+│   │   ├── unselect_highlighted.png
+│   │   └── unselect.png
+│   ├── widget
+│   │   ├── button_disabled.png
+│   │   ├── button_disabled.png.mcmeta
+│   │   ├── button_highlighted.png
+│   │   ├── button_highlighted.png.mcmeta
+│   │   ├── button.png
+│   │   ├── button.png.mcmeta
+│   │   ├── cross_button_highlighted.png
+│   │   ├── cross_button.png
+│   │   ├── locked_button_disabled.png
+│   │   ├── locked_button_highlighted.png
+│   │   ├── locked_button.png
+│   │   ├── scroller.png
+│   │   ├── scroller.png.mcmeta
+│   │   ├── slider_handle_highlighted.png
+│   │   ├── slider_handle_highlighted.png.mcmeta
+│   │   ├── slider_handle.png
+│   │   ├── slider_handle.png.mcmeta
+│   │   ├── slider_highlighted.png
+│   │   ├── slider_highlighted.png.mcmeta
+│   │   ├── slider.png
+│   │   ├── slider.png.mcmeta
+│   │   ├── slot_frame.png
+│   │   ├── tab_highlighted.png
+│   │   ├── tab_highlighted.png.mcmeta
+│   │   ├── tab.png
+│   │   ├── tab.png.mcmeta
+│   │   ├── tab_selected_highlighted.png
+│   │   ├── tab_selected_highlighted.png.mcmeta
+│   │   ├── tab_selected.png
+│   │   ├── tab_selected.png.mcmeta
+│   │   ├── unlocked_button_disabled.png
+│   │   ├── unlocked_button_highlighted.png
+│   │   └── unlocked_button.png
+│   └── world_list
+│       ├── error.png
+│       ├── join_highlighted.png
+│       ├── join.png
+│       ├── marked_join_highlighted.png
+│       ├── marked_join.png
+│       └── warning.png
+└── title
+    ├── background
+    │   └── panorama_overlay.png
+    ├── edition.png
+    ├── edition.png.mcmeta
+    ├── minceraft.png
+    ├── minceraft.png.mcmeta
+    ├── minecraft.png
+    ├── minecraft.png.mcmeta
+    ├── realms.png
+    └── realms.png.mcmeta
+
+41 directories, 285 files

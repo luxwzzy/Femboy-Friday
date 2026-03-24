@@ -1,0 +1,4 @@
+{
+  condition: "block.chest.v2",
+  fallback: "assets/cherry-everything/textures/entity/chest"
+}

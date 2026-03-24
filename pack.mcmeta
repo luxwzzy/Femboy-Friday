@@ -1,0 +1,9 @@
+ {
+        "pack": {
+                "pack_format": 34,
+                "supported_formats": [34, 75],
+                "min_format": [34, 0],
+                "max_format": [75, 0], 
+                "description": "\u00A7dFemboy Friday :3\n\u00A75By: luxwzzy"
+        }
+}

@@ -1,0 +1,82 @@
+{
+  "rpo.egCherryEverything": "Cherry Everything Config",
+
+  "rpo.egCherryEverything.info": "Info & Credits",
+  "rpo.egCherryEverything.info.title": "Info & Credits",
+
+  "rpo.egCherryEverything.info.credits": "Cherry Everything",
+  "rpo.egCherryEverything.info.credits.tooltip": "\u00A7f\u00A7l -- Cherry Everything -- \n\u00A77Version\n \u00A77| \u00A7d1.2\n\u00A77Created by\n \u00A77| \u00A7dEnchanted Games",
+  "rpo.egCherryEverything.info.credits.enchantedGames": "Enchanted Games",
+
+  "rpo.egCherryEverything.block": "Block Config",
+  "rpo.egCherryEverything.block.title": "Block Config",
+  "rpo.egCherryEverything.block.tooltip": "Enable or disable cherry wood colours for blocks.",
+
+  "rpo.egCherryEverything.block.barrel": "Barrel Colour Palette",
+  "rpo.egCherryEverything.block.barrel.Planks": "Cherry Planks",
+  "rpo.egCherryEverything.block.barrel.Bark": "Cherry Bark",
+  "rpo.egCherryEverything.block.barrel.Vanilla": "Vanilla",
+
+  "rpo.egCherryEverything.block.bed": "Cherry Beds",
+  "rpo.egCherryEverything.block.bell": "Cherry Bell",
+  "rpo.egCherryEverything.block.bookshelf": "Cherry Bookshelf",
+  "rpo.egCherryEverything.block.campfire": "Cherry Campfires",
+
+  "rpo.egCherryEverything.block.chest": "Cherry Chests",
+  "rpo.egCherryEverything.block.chest.tooltip": "Also affects Minecarts with Chests",
+  "rpo.egCherryEverything.block.chest.v2": "Updated Texture",
+  "rpo.egCherryEverything.block.chest.v1": "Original Texture",
+  "rpo.egCherryEverything.block.chest.Vanilla": "Vanilla",
+
+  "rpo.egCherryEverything.block.chiseledBookshelf": "Cherry Chiseled Bookshelf",
+
+  "rpo.egCherryEverything.block.composter": "Composter Colour Palette",
+  "rpo.egCherryEverything.block.composter.Planks": "Cherry Planks",
+  "rpo.egCherryEverything.block.composter.Bark": "Cherry Bark",
+  "rpo.egCherryEverything.block.composter.Vanilla": "Vanilla",
+
+  "rpo.egCherryEverything.block.craftingTable": "Cherry Crafting Table",
+  "rpo.egCherryEverything.block.daylightDetector": "Cherry Daylight Detector",
+  "rpo.egCherryEverything.block.grindstone": "Cherry Grindstone",
+  "rpo.egCherryEverything.block.itemFrame": "Cherry Item Frame & Glow Item Frame",
+
+  "rpo.egCherryEverything.block.ladder": "Ladder Model",
+  "rpo.egCherryEverything.block.ladder.Rope": "Rope Supports",
+  "rpo.egCherryEverything.block.ladder.Bark": "Cherry Bark Supports",
+  "rpo.egCherryEverything.block.ladder.Vanilla": "Vanilla",
+
+  "rpo.egCherryEverything.block.lectern": "Cherry Lectern",
+  "rpo.egCherryEverything.block.lever": "Cherry Lever",
+  "rpo.egCherryEverything.block.loom": "Cherry Loom",
+  "rpo.egCherryEverything.block.piston": "Cherry Pistons",
+  "rpo.egCherryEverything.block.rail": "Cherry Rail",
+  "rpo.egCherryEverything.block.redstoneTorch": "Cherry Redstone Torch",
+  "rpo.egCherryEverything.block.smoker": "Cherry Smoker",
+  "rpo.egCherryEverything.block.soulTorch": "Cherry Soul Torch",
+  "rpo.egCherryEverything.block.stonecutter": "Cherry Stonecutter",
+  "rpo.egCherryEverything.block.torch": "Cherry Torch",
+  "rpo.egCherryEverything.block.tripwireHook": "Cherry Tripwire Hook",
+
+  "rpo.egCherryEverything.item": "Item Config",
+  "rpo.egCherryEverything.item.title": "Item Config",
+  "rpo.egCherryEverything.item.tooltip": "Enable or disable cherry wood colours for items.",
+
+  "rpo.egCherryEverything.item.arrow": "Cherry Arrows & Tipped Arrows",
+  "rpo.egCherryEverything.item.bow": "Cherry Bow",
+  "rpo.egCherryEverything.item.bowl": "Cherry Bowls",
+  "rpo.egCherryEverything.item.carrotOnAStick": "Cherry Carrot on a Stick",
+  "rpo.egCherryEverything.item.crossbow": "Cherry Crossbow",
+  "rpo.egCherryEverything.item.fishingRod": "Cherry Fishing Rod",
+  "rpo.egCherryEverything.item.shield": "Cherry Shields",
+  "rpo.egCherryEverything.item.stick": "Cherry Stick",
+  "rpo.egCherryEverything.item.tools": "Cherry Tools",
+  "rpo.egCherryEverything.item.tools.tooltip": "Changes the wooden handles on all tools\nexcept Netherite tools.",
+  "rpo.egCherryEverything.item.warpedFungusOnAStick": "Cherry Warped Fungus on a Stick",
+
+  "rpo.egCherryEverything.entity": "Entity Config",
+  "rpo.egCherryEverything.entity.title": "Entity Config",
+  "rpo.egCherryEverything.entity.tooltip": "Enable or disable cherry wood colours for entities.",
+
+  "rpo.egCherryEverything.entity.banner": "Cherry Banners",
+  "rpo.egCherryEverything.entity.chestBoat": "Cherry Chests on Chest Boats"
+}

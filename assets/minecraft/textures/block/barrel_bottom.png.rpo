@@ -1,0 +1,4 @@
+{
+  condition: "block.barrel.Planks",
+  fallback: "assets/cherry-everything/textures/block/barrel_bottom.png"
+}
