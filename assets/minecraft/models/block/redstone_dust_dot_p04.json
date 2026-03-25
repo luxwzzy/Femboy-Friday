@@ -1,0 +1,6 @@
+{
+	"parent": "block/redstone_dust_dot",
+	"textures": {
+		"line": "block/redstone_dust_dot_p04"
+	}
+}
