@@ -1,4 +1,0 @@
-{
-  condition: "block.ladder.Rope",
-  fallback: "assets/cherry-everything/textures/item/ladder.png"
-}
