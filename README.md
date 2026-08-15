@@ -4,7 +4,7 @@
  ♡ Redstone dust and other things need Polytone. Use vanilla version if u dont want to use it, it works but files are a little messy
 
 ## Download
- To download, click [this link](https://github.com/luxwzzy/Femboy-Friday/archive/refs/heads/dom.zip) and extract it (using winrar/7zip/etc) in your resource packs folder
+ Go to the "Releases" section in the right side of the repository to download a ready release, or, for the latest update, click [this link](https://github.com/luxwzzy/Femboy-Friday/archive/refs/heads/dom.zip) and extract it (using winrar/7zip/etc) into your resource packs folder
 
 ## Requirements
  ♡ [Continuity Mod](https://modrinth.com/mod/continuity): Emissive textures \
